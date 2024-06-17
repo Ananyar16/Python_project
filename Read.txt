@@ -1,0 +1,4 @@
+print("Hello)
+s= input("Enter your name : ")
+print("")
+print("Welcome to this python program ",s)
